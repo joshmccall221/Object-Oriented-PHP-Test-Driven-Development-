@@ -9,3 +9,9 @@
 	*Removed duplicates and kept count of number of occurrences.
 	*Packaged final array for php helper file
 	*Called PHP and PHPhelper files to create Google Chart. 
+
+To View: 
+1. Download Zip and extract in htdocs of (L/M/X)AMP Stack.
+		*1_piechart_java.html --JavaScript
+		*2_piechart_php.php --PHP 
+		*3_letters.php -- Object Oriented PHP TDD Reading from file. 
