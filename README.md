@@ -1,3 +1,12 @@
+
+
+TODO:
+====
+- do cool stuff
+- make page for project http://joshmccall221.github.io/Object-Oriented-PHP-Test-Driven-Development/
+
+*note*: currently redirects to dev.joshuamccall.com as expected. 
+
 3 examples of implementing Google Charts
 *note: examples 2 and 3 need a xamp stack to be viewed correctly
 
@@ -11,10 +20,14 @@
 	*Called PHP and PHPhelper files to create Google Chart. 
    Note on test: letters*.txt contain varying amounts of test data. 
 
-To View: 
+To View:
+
 1. Download Zip and extract in htdocs of (L/M/X)AMP Stack.
-		*1_piechart_java.html --JavaScript
-		*2_piechart_php.php --PHP 
-		*3_letters.php -- Object Oriented PHP TDD Reading from file. 
+
+   * 1_piechart_java.html --JavaScript
+
+   * 2_piechart_php.php --PHP 
+
+   * 3_letters.php -- Object Oriented PHP TDD Reading from file. 
 
 
