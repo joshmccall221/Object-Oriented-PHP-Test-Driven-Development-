@@ -1,13 +1,6 @@
 
 
-TODO:
-====
-- do cool stuff
-- make page for project http://joshmccall221.github.io/Object-Oriented-PHP-Test-Driven-Development/
-
-*note*: currently redirects to dev.joshuamccall.com as expected. 
-
-3 examples of implementing Google Charts
+# 3 examples of implementing Google Charts
 *note: examples 2 and 3 need a xamp stack to be viewed correctly
 
 1. Working from Google Charts API I used javascript to create 3D chart. 
@@ -31,3 +24,14 @@ To View:
    * 3_letters.php -- Object Oriented PHP TDD Reading from file. 
 
 
+
+
+
+
+
+##TODO:
+
+- do cool stuff
+- make page for project http://joshmccall221.github.io/Object-Oriented-PHP-Test-Driven-Development/
+
+*note*: currently redirects to dev.joshuamccall.com as expected. 
